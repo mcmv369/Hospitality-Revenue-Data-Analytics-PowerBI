@@ -30,21 +30,21 @@ You are a data analyst who has been provided with sample data and a mock-up dash
 - AtliQ lost around 298 Million in cancellation
 - Elite type rooms has the most booking and as well higher cancellation rate
 
-- Created following KPI's using DAX -
+# Created following KPI's using DAX -
 
-Total Bookings
-Total Revenue
-Revenue Last Month(LM)
-Average Rating
-Average Rating Last Month(LM)
-Total Capacity
-Total Successful bookings
-Occupancy %
-Occupancy % Last Month(LM)
-Total Cancelled Bookings
-Cancellation Rate
-Cancellation rate Last Month(LM)
-Revenue Loss
+- Total Bookings
+- Total Revenue
+- Revenue Last Month(LM)
+- Average Rating
+- Average Rating Last Month(LM)
+- Total Capacity
+- Total Successful bookings
+- Occupancy %
+- Occupancy % Last Month(LM)
+- Total Cancelled Bookings
+- Cancellation Rate
+- Cancellation rate Last Month(LM)
+- Revenue Loss
 
 
 
