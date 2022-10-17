@@ -15,7 +15,6 @@ You are a data analyst who has been provided with sample data and a mock-up dash
 
 ![image](https://user-images.githubusercontent.com/114512832/196051872-01b02cf6-e4e3-4b5e-8703-9ad0dec3426a.png)
 
-# created 2 views Overall and month view.
 
 # Data Model
 
@@ -30,25 +29,28 @@ You are a data analyst who has been provided with sample data and a mock-up dash
 
 ![Hotel Analysis Codebasics1_page-0002](https://user-images.githubusercontent.com/114512832/196265275-a8cc1996-0efe-4351-b991-65ad9959a696.jpg)
 
+# Some Important insights from the Dashboard
+
+- Designed 2 dashboards Overall and Monthly Analysis
+- Mumbai generates the highest revenue (669 M) followed by Bangalore, Hyderabad and Delhi
+- Mumbai tops both in occupancy and rating followed by Hyderabad, Delhi , Bangalore.
+- AtliQ Exotica performs better compared to all 7 type of properties with 320 Million revenue, rating 3.62, occupancy percentage 57 and cancellation rate as 24.4%.
+- AtliQ Bay has the highest occupancy of 60% and Atliq seasons have lowest occupancy of 45%
+- We need to focus more on Elite customers across the cities as they drive the revenue boost
+- Week 29 recorded the highest revenue among all, which is 139.6 Million
+- Elite type rooms has the most booking and as well higher cancellation rate
+
 
 # Learnt things from this Project
 - Learnt to build a new visual (Calendar visual) using matrix table, which can be utilized for different purpose of analyze. [(Article Refered)](https://www.linkedin.com/pulse/calendar-matrix-syed-ahmed-ali/?trackingId=VgyLpo%2BYxVRs8tD03PXcPQ%3D%3D)
 - Learnt, how to use bookmarks and selection for different purposes. (Page navigation and clear filter button in the dashboard was achieved using bookmarks and selection.
-- Tried using color palette and stick with that colors throughout the dashboard (Color palette link)
+- Tried using color palette and stick with that colors throughout the dashboard [Color palette link](https://colorhunt.co/palette/06113cff8c32ddddddeeeeee)
 - Learnt about telling data driven stores with this beautiful dashboard.
 - Understanding the business requirement based on the data.
 - Understanding use of charts and developing DAX measured,
 - Developing beautiful UI
 - Giving smart narration to the dashboard.
 
-# Some Important insights from the Dashboard
-
-- Mumbai generates the highest revenue (669 M) followed by Bangalore, Hyderabad and Delhi
-- AtliQ Exotica performs better compared to all 7 type of properties with 320 Million revenue, rating 3.62, occupancy percentage 57 and cancellation rate as 24.4%.
-- AtliQ Bay has the highest occupancy of 60% and Atliq seasons have lowest occupancy of 45%
-- Week 24 recorded the highest revenue among all, which is 139.6 Million
-- Mumbai tops both in occupancy and rating followed by Hyderabad, Delhi , Bangalore
-- Elite type rooms has the most booking and as well higher cancellation rate
 
 # Created following KPI's using DAX -
 
