@@ -38,6 +38,7 @@ You are a data analyst who has been provided with sample data and a mock-up dash
 - AtliQ Bay has the highest occupancy of 60% and Atliq seasons have lowest occupancy of 45%
 - We need to focus more on Elite customers across the cities as they drive the revenue boost
 - Week 29 recorded the highest revenue among all, which is 139.7 Million
+- Weekdays have more Occupancy compared to Weekends
 
 
 # Learnt things from this Project
