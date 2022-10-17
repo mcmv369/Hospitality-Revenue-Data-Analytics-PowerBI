@@ -15,12 +15,24 @@ You are a data analyst who has been provided with sample data and a mock-up dash
 
 ![image](https://user-images.githubusercontent.com/114512832/196051872-01b02cf6-e4e3-4b5e-8703-9ad0dec3426a.png)
 
+# created 2 views Overall and month view.
+
 # Data Model
 
 ![image](https://user-images.githubusercontent.com/114512832/196050626-46a8cf29-0376-4b4f-bef1-b841e176dbfa.png)
 
+
+# 1 - Overall Analysis
+
+![Hotel Analysis Codebasics1_page-0001](https://user-images.githubusercontent.com/114512832/196265240-a7990e4f-42d3-4667-9124-a77a681f4c51.jpg)
+
+# 2 - Monthly Analysis
+
+![Hotel Analysis Codebasics1_page-0002](https://user-images.githubusercontent.com/114512832/196265275-a8cc1996-0efe-4351-b991-65ad9959a696.jpg)
+
+
 # Learnt things from this Project
-- Learnt to build a new visual (Calendar visual) using matrix table, which can be utilized for different purpose of analyze. [Article Refered](https://www.linkedin.com/pulse/calendar-matrix-syed-ahmed-ali/?trackingId=VgyLpo%2BYxVRs8tD03PXcPQ%3D%3D)
+- Learnt to build a new visual (Calendar visual) using matrix table, which can be utilized for different purpose of analyze. [(Article Refered)](https://www.linkedin.com/pulse/calendar-matrix-syed-ahmed-ali/?trackingId=VgyLpo%2BYxVRs8tD03PXcPQ%3D%3D)
 - Learnt, how to use bookmarks and selection for different purposes. (Page navigation and clear filter button in the dashboard was achieved using bookmarks and selection.
 - Tried using color palette and stick with that colors throughout the dashboard (Color palette link)
 - Learnt about telling data driven stores with this beautiful dashboard.
