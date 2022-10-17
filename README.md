@@ -21,11 +21,11 @@ You are a data analyst who has been provided with sample data and a mock-up dash
 ![image](https://user-images.githubusercontent.com/114512832/196050626-46a8cf29-0376-4b4f-bef1-b841e176dbfa.png)
 
 
-# 1 - Overall Analysis
+# Overall Analysis
 
 ![Hotel Analysis Codebasics1_page-0001](https://user-images.githubusercontent.com/114512832/196265240-a7990e4f-42d3-4667-9124-a77a681f4c51.jpg)
 
-# 2 - Monthly Analysis
+# Monthly Analysis
 
 ![Hotel Analysis Codebasics1_page-0002](https://user-images.githubusercontent.com/114512832/196265275-a8cc1996-0efe-4351-b991-65ad9959a696.jpg)
 
@@ -37,8 +37,7 @@ You are a data analyst who has been provided with sample data and a mock-up dash
 - AtliQ Exotica performs better compared to all 7 type of properties with 320 Million revenue, rating 3.62, occupancy percentage 57 and cancellation rate as 24.4%.
 - AtliQ Bay has the highest occupancy of 60% and Atliq seasons have lowest occupancy of 45%
 - We need to focus more on Elite customers across the cities as they drive the revenue boost
-- Week 29 recorded the highest revenue among all, which is 139.6 Million
-- Elite type rooms has the most booking and as well higher cancellation rate
+- Week 29 recorded the highest revenue among all, which is 139.7 Million
 
 
 # Learnt things from this Project
